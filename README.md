@@ -4,10 +4,19 @@
 
 ### 👋 Hi, I'm Abdelfatah Elshishiny  
 **Frontend Developer (React & Next.js)**  
-I build high-performance, scalable, and maintainable web applications with a strong computer science foundation.
+I build high-performance, scalable, and user-focused web applications.
 
-[LinkedIn](https://www.linkedin.com/in/abdelfatah-elshishiny) •
-[Email](mailto:abdelfatah.mohamed.elshishiny@gmail.com)
+<br/>
+
+<a href="https://www.linkedin.com/in/abdelfatah-elshishiny" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:abdelfatah.mohamed.elshishiny@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" />
+</a>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdelfatah-elshishiny&style=flat&color=orange)
 
@@ -18,83 +27,80 @@ I build high-performance, scalable, and maintainable web applications with a str
 ## 🧠 About Me
 
 - 🎯 Frontend Developer specialized in **React.js & Next.js**
-- 🧠 Strong foundation in **Computer Science fundamentals**
-- ⚡ Focused on **performance, scalability, and clean architecture**
-- 🧩 Experienced in **state management, data fetching, and caching**
-- 🧪 Passionate about **problem solving and writing predictable, maintainable code**
-- 🚀 Continuously learning **advanced frontend & system design concepts**
+- ⚡ Strong background in **Computer Science fundamentals**
+- 🧩 Passionate about **performance optimization, clean architecture, and scalable UI**
+- 🧪 Experienced with **state management, data fetching, and modern frontend patterns**
+- 🚀 Always learning and applying **advanced frontend concepts**
 
 ---
 
-## 🛠️ Frontend Tech Stack
+## 🛠️ Tech Stack
 
-### Core
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-
-### State Management & Data Fetching
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat)
-
-> ✔ Server-state vs Client-state separation  
-> ✔ Caching, background refetching, optimistic updates
-
-### Styling & UI
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
-
-### Tooling & Dev
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint)
-
-### Backend as a Service
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+### ⚛️ Core Frontend
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+</div>
 
 ---
 
-## 🧠 Computer Science Foundations
+### 🔄 State Management & Data
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+</div>
 
-- 🧱 **Object-Oriented Programming (OOP)**
-  - Encapsulation, Inheritance, Polymorphism, Abstraction
-- 🧮 **Data Structures**
-  - Arrays, Linked Lists, Stacks, Queues, Trees, Hash Tables
-- ⚙️ **Algorithms**
-  - Searching, Sorting, Recursion, Time & Space Complexity (Big O)
-- 🧩 **Problem Solving**
-  - Breaking down complex problems into reusable logic
-  - Writing efficient and readable solutions
-- 🧠 **Thinking before coding**
-  - Trade-offs, edge cases, scalability considerations
+---
+
+### 🎨 Styling & UI
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+</div>
+
+---
+
+### 🧰 Tooling & Dev
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="45" />
+</div>
+
+---
+
+### ☁️ Backend as a Service
+<div align="center">
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/icons/favicon-32x32.png" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+</div>
 
 ---
 
 ## 🧩 What I Focus On
 
-- ⚙️ Performance Optimization & Re-render control
+- ⚙️ Performance Optimization & Re-render Control
 - 🧠 State Management Architecture
-- 🔄 Server State Management with React Query
+- 🔄 Data Fetching, Caching & Synchronization
 - 🧱 Scalable Project Structure
-- 🧪 Clean Code & SOLID Principles
-- 🧭 Modern React Router (Loaders, Actions, Data APIs)
-- 🧠 Applying CS concepts to real frontend problems
+- 🧪 Clean Code, SOLID Principles & Design Patterns
+- 🧭 Modern React Router (Loaders & Actions)
+- 🧠 OOP, Data Structures & Algorithms
+- 🧩 Problem Solving & Competitive Thinking
 
 ---
 
 ## 📂 Projects
 
 > 🚧 Projects are currently being prepared and will be uploaded soon.  
-Projects focus on:
-- Real-world use cases  
-- Performance & scalability  
-- Clean architecture & maintainability  
+Each project focuses on **real-world frontend challenges**, scalability, and performance.
 
 ---
 
@@ -111,9 +117,9 @@ Projects focus on:
 
 ## 📬 Contact
 
-- 💼 LinkedIn: [abdelfatah-elshishiny](https://www.linkedin.com/in/abdelfatah-elshishiny)
+- 💼 LinkedIn: https://www.linkedin.com/in/abdelfatah-elshishiny
 - 📧 Email: abdelfatah.mohamed.elshishiny@gmail.com
 
 ---
 
-> “Strong frontend engineering starts with **computer science thinking**, not libraries.”
+> “Great frontend is not about libraries — it’s about **thinking, structure, and performance**.”
