@@ -77,7 +77,7 @@ I build high-performance, scalable, and user-focused web applications.
 
 ### ☁️ Backend as a Service
 <div align="center">
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/icons/favicon-32x32.png" width="45" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
 </div>
