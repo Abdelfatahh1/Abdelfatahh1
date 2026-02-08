@@ -77,7 +77,9 @@ I build high-performance, scalable, and user-focused web applications.
 
 ### ☁️ Backend as a Service
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" />
+  <!-- Supabase -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="45" style="vertical-align:middle;" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
 </div>
